@@ -1,0 +1,3 @@
+C:/Users/galuh/CLionProjects/exercisePerbedaanIntDanFloat/cmake-build-debug/CMakeFiles/exercisePerbedaanIntDanFloat.dir
+C:/Users/galuh/CLionProjects/exercisePerbedaanIntDanFloat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/galuh/CLionProjects/exercisePerbedaanIntDanFloat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/galuh/CLionProjects/exerciseAritmatika/cmake-build-debug/CMakeFiles/exerciseAritmatika.dir
+C:/Users/galuh/CLionProjects/exerciseAritmatika/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/galuh/CLionProjects/exerciseAritmatika/cmake-build-debug/CMakeFiles/rebuild_cache.dir
